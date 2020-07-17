@@ -1,0 +1,7 @@
+com\lindaifeng\ssm\controller\SysLogController.class
+com\lindaifeng\ssm\controller\RoleController.class
+com\lindaifeng\ssm\controller\OrderController.class
+com\lindaifeng\ssm\controller\UserController.class
+com\lindaifeng\ssm\controller\PermissionController.class
+com\lindaifeng\ssm\controller\LogAop.class
+com\lindaifeng\ssm\controller\ProductController.class
