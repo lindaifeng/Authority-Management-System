@@ -1,0 +1,8 @@
+com\lindaifeng\ssm\domain\Orders.class
+com\lindaifeng\ssm\domain\Permission.class
+com\lindaifeng\ssm\domain\Syslog.class
+com\lindaifeng\ssm\domain\Traveller.class
+com\lindaifeng\ssm\domain\Member.class
+com\lindaifeng\ssm\domain\Product.class
+com\lindaifeng\ssm\domain\Role.class
+com\lindaifeng\ssm\domain\UserInfo.class
