@@ -1,0 +1,12 @@
+com\lindaifeng\ssm\service\impl\OrdersServiceImpl.class
+com\lindaifeng\ssm\service\impl\ProductServiceImpl.class
+com\lindaifeng\ssm\service\impl\RoleServiceImpl.class
+com\lindaifeng\ssm\service\IOrdersService.class
+com\lindaifeng\ssm\service\impl\SysLogServiceImpl.class
+com\lindaifeng\ssm\service\IPermissionService.class
+com\lindaifeng\ssm\service\impl\IUserServiceImpl.class
+com\lindaifeng\ssm\service\impl\PermissionServiceImpl.class
+com\lindaifeng\ssm\service\IUserService.class
+com\lindaifeng\ssm\service\IRoleService.class
+com\lindaifeng\ssm\service\ISysLogService.class
+com\lindaifeng\ssm\service\IProductService.class
