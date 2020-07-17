@@ -1,0 +1,8 @@
+com\lindaifeng\ssm\dao\IProductDao.class
+com\lindaifeng\ssm\dao\IRoleDao.class
+com\lindaifeng\ssm\dao\IUserDao.class
+com\lindaifeng\ssm\dao\ISysLogDao.class
+com\lindaifeng\ssm\dao\IOrdersDao.class
+com\lindaifeng\ssm\dao\IMemberDao.class
+com\lindaifeng\ssm\dao\IPermissionDao.class
+com\lindaifeng\ssm\dao\ITravellerDao.class
