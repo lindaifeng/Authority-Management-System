@@ -16,18 +16,18 @@ AdminLTE是一款建立在bootstrap和jquery之上的开源的模板主题工具
  [https://github.com/almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE)
  我们可以从上面网址获取AdminLTE源代码
 汉化版：[https://github.com/itheima2017/adminlte2-itheima](https://github.com/itheima2017/adminlte2-itheima)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190609103522307.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4OTIzNjMw,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190609103725693.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4OTIzNjMw,size_16,color_FFFFFF,t_70)
+ ![image](https://github.com/lindaifeng/Authority-Management-System/blob/master/img/20190609103522307.png)
+ ![image](https://github.com/lindaifeng/Authority-Management-System/blob/master/img/20190609103725693.png)
 
 # 二、准备工作
 
 ## 1.1 MySql数据库搭建
 具体流程点击：[《MySql数据库模块》](https://blog.csdn.net/weixin_45019350/article/details/107426891)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200718115049564.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTAxOTM1MA==,size_16,color_FFFFFF,t_70)
+![image](https://github.com/lindaifeng/Authority-Management-System/blob/master/img/20200718115049564.png)
 
 ## 1.2 idea环境搭建
 具体流程点击：[《idea环境搭建模块》](https://blog.csdn.net/weixin_45019350/article/details/107427080)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200718122016185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTAxOTM1MA==,size_16,color_FFFFFF,t_70)
+![image](https://github.com/lindaifeng/Authority-Management-System/blob/master/img/20200718122016185.png)
 
 # 三、 SSM综合练习介绍
 
